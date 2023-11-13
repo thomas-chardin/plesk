@@ -1,0 +1,8 @@
+#rectangle-arrondi {
+    margin: 5% 5%;
+    background-color: white; 
+    border-radius: 20px; 
+    border: ridge #494949;
+    padding: 1%;
+  }
+
